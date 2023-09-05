@@ -1,1 +1,5 @@
 this is a git session
+
+first method is drag and drop method
+source control method
+command line method
